@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "855063437278",
+    "firebase_url": "https://fyploginregfirebase.firebaseio.com",
+    "project_id": "fyploginregfirebase",
+    "storage_bucket": "fyploginregfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855063437278:android:ae475964989b62cf86074f",
+        "android_client_info": {
+          "package_name": "com.example.fyploginregfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855063437278-ea9eqsks74j2smr8ssa1qb7sk6ih9vun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fyploginregfirebase",
+            "certificate_hash": "f83906df4662283dec1e37b378061d31c1934146"
+          }
+        },
+        {
+          "client_id": "855063437278-eu7137lq1c00l6r3hitjff24g65k4nv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa04HNYHjuF2S87oAtEwUxNxigQcByAwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855063437278-eu7137lq1c00l6r3hitjff24g65k4nv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

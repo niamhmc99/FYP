@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FYPLoginRegFirebase</string>
+    <string name="expense">Expenditure</string>
+    <string name="animals">Animals</string>
+    <string name="vets">Vet History</string>
+    <string name="employees">Employees</string>
+</resources>
